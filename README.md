@@ -3,4 +3,4 @@
 
  Repositório criado com a orientação do Curso em vídeo!
 
- Linha direcionada pelo site!
+ Linha adicionada pelo site!
